@@ -1,0 +1,43 @@
+.first_font{
+    font-family: Roboto Mono;
+}
+.second_font {
+    font-family: Roboto Slab;
+}
+.third_font {
+    font-family: Roboto;
+}
+.fourth_font {
+    font-family: SourceCodePro-Light ;
+}
+.fifth_font {
+    font-family: Lora-SemiBold;
+}
+.sixth_font {
+    font-family: Alata-Reqular;
+}
+
+
+
+
+
+@font-face {
+    // font-family: SourceCodePro-Light;
+    // src: url('../font/SourceCodePro-Light.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+// font-family: Lora-SemiBold;
+// src: url('../font/Lora-SemiBold.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+// font-family: Alata-Reqular;
+// src: url('../font/Alata-Reqular.ttf');
+    font-style: normal;
+    font-weight: normal;
+}
